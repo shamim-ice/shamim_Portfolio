@@ -25,9 +25,8 @@ This repository containing portfolio of data science machine learning projects c
 - ### Micro Projects: 
 
 	- __Python__
-		- [ML with Logistic Regression](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
-		- [ML with K Nearest Neighbours](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Using KNN 
-thhrehbrf jsfnjwenrj.
+		
+		- [ML with SVM ](https://colab.research.google.com/drive/12EKBNMzMX78fA7nWEes5TsBUABNqjnzV): Using SVM to detect malicious users in CR-IoT networks.
 
 	- __MATLAB__
 		- [ML Logistic Regression](http://rpubs.com/sajal_sharma/micro_logistic): Predicting salary class of a person using logistic regression.
