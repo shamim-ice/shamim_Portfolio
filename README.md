@@ -18,11 +18,14 @@ This repository containing portfolio of data science machine learning projects/e
 	- __Python__
 		
 		- [Handwritten bangla digit recognition using CNN with WEB applet](https://github.com/shamim-ice/HandwrittenBanglaDigitRecognition): A project submitted to the department of Information and Communication Technology, Faculty of Engineering and Technology, Islamic University, Kushtia-7003 for the partial fulfilment of the bachelor schience degree.
+		
+		_Tools: Pandas, Numpy, cv2, sklearn, keras, and Matplotlib_
+
 		- [Malicious users detection in CR-IoT networks using SVM](https://github.com/shamim-ice/SpectrumSensing-and-MaliciousUsersClassification): Support Vector Machine (SVM) algorithm used to detects and classifies malicious users in Cognitive Radio Internet of Things (CR-IoT) networks ([paper](https://doi.org/10.1016/j.mlwa.2021.100052)).
 
 	- __MATLAB__
 		
-		-This is my solution to all the programming assignments of Machine-Learning (Coursera) taught by Andrew Ng. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
+		-This is my solution to all the programming assignments of Machine-Learning (Coursera) by Andrew Ng. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
 
 		- [Linear Regression](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Linear%20Regression): In this exercise, we implement linear regression with one variable to predict profits for a food truck, and with multiple variables to predict the prices of houses.
 		- [Logistic Regression](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Logistic%20Regression): In this exercise, we implement a logistic regression model to predict whether a student gets admitted into a university.
