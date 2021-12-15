@@ -22,6 +22,7 @@ This repository containing portfolio of data science machine learning projects/e
 		- [Naive Bayes classifiers](https://github.com/shamim-ice/shamim_Portfolio/blob/main/NaiveBC.py): Naive Bayes classifiers are classifie whether or not patient has diabetes based on certain diagnostic measurements included in the [dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 		- [Animal Classification](https://github.com/shamim-ice/shamim_Portfolio/blob/main/AnimalClassifications.py): Using decision tree algorithm model to classifies the animal consists of 101 animals from zoo included in the [dataset](https://www.kaggle.com/uciml/zoo-animal-classification).
 		- [Decision Tree scratch code](https://github.com/shamim-ice/shamim_Portfolio/blob/main/DecisionTREE.py): Tree-based powerful classification and prediction nonlinear models that work by partitioning the input space into cuboid regions.
+		- [K-Nearest Neighbour](https://github.com/shamim-ice/shamim_Portfolio/blob/main/IRIS_knn.ipynb) or [KNN](https://github.com/shamim-ice/shamim_Portfolio/blob/main/KNN.py): Using KNN algorithm to classifies the iris types based on sepal width and length, and petel width and length included [dataset](https://github.com/shamim-ice/shamim_Portfolio/blob/main/IRIS.csv). 
 		
 		- [Handwritten bangla digit recognition using CNN with WEB applet](https://github.com/shamim-ice/HandwrittenBanglaDigitRecognition): A project submitted to the department of Information and Communication Technology, Faculty of Engineering and Technology, Islamic University, Kushtia-7003 for the partial fulfilment of the bachelor schience degree.
 		
@@ -50,4 +51,4 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 ### Support My Work
 
-If this project inspired you, gave you ideas for your own portfolio or helped you❤️.   
+If these projects or exercises inspired you, gave you ideas for your own portfolio or helped you❤️.   
