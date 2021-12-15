@@ -7,7 +7,7 @@ This repository containing portfolio of data science machine learning projects/e
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
+		- [HANDWRITTEN BANGLA DIGIT RECOGNITION USING CNN WITH WEB APPLET](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib_
 
@@ -17,7 +17,8 @@ This repository containing portfolio of data science machine learning projects/e
 
 	- __Python__
 		
-		- [ML with SVM ](https://colab.research.google.com/drive/12EKBNMzMX78fA7nWEes5TsBUABNqjnzV): Using SVM to detect malicious users in CR-IoT networks.
+		- [Handwritten bangla digit recognition using CNN with WEB applet](https://github.com/shamim-ice/HandwrittenBanglaDigitRecognition): A project submitted to the department of Information and Communication Technology, Faculty of Engineering and Technology, Islamic University, Kushtia-7003 for the partial fulfilment of the bachelor schience degree.
+		- [Malicious users detection in CR-IoT networks using SVM](https://github.com/shamim-ice/SpectrumSensing-and-MaliciousUsersClassification): Support Vector Machine (SVM) algorithm used to detects and classifies malicious users in Cognitive Radio Internet of Things (CR-IoT) networks ([paper](https://doi.org/10.1016/j.mlwa.2021.100052)).
 
 	- __MATLAB__
 		
