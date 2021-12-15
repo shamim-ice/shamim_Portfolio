@@ -37,9 +37,10 @@ This repository containing portfolio of data science machine learning projects c
 		- [Neural Network Learning](https://github.com/shamim-ice/shamim_Portfolio/tree/main/NN%20Learning): In this exercise, we implemented the backpropagtion algorithm for neural networks and apply it to the task of handwritten digit recognition.
 		- [Regularized Linear Regression and Bias Variance](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Regularized%20Linear%20Regression%20and%20BiasVariance): In this exercise, we implemented regularized linear regression to predict the amount of water flowing out of the dam using the change of water level. Also we plotted training and test errors on a learning curve to diagonse bias-variance problems.
 		- [Support Vector Machine](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Support%20Vector%20Machines): In this exercise, we find non-linear decision boundaries with SVM and build a spam classifier.
-		- [K-means Clustering and PCM](https://github.com/shamim-ice/shamim_Portfolio/tree/main/K-Means%20Clustering%20and%20PCA):
+		- [K-means Clustering and PCM](https://github.com/shamim-ice/shamim_Portfolio/tree/main/K-Means%20Clustering%20and%20PCA): In this exercise, we implemented K-means clustering algorithm and use it for image compression,  and use principal component analysis (PCA) to perform dimensionality reduction.
 		
-		- [Anomaly Detection](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Anomaly%20Detection): Using Decision Trees and Random Forests to classify schools as Private or Public.
+		- [Anomaly Detection](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Anomaly%20Detection): We implemented the anomaly detection algorithm and apply it to detect failing server on a network.
+		- [Certificate](https://github.com/shamim-ice/shamim_Portfolio/blob/main/Coursera_Machine_Learning_ng.pdf):
 
 
 
