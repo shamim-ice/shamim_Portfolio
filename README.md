@@ -28,9 +28,17 @@ This repository containing portfolio of data science machine learning projects c
 		- [ML with SVM ](https://colab.research.google.com/drive/12EKBNMzMX78fA7nWEes5TsBUABNqjnzV): Using SVM to detect malicious users in CR-IoT networks.
 
 	- __MATLAB__
-		- [ML Logistic Regression](http://rpubs.com/sajal_sharma/micro_logistic): Predicting salary class of a person using logistic regression.
-		- [ML Anomaly Detection](http://rpubs.com/sajal_sharma/micro_dt_rf): Using Decision Trees and Random Forests to classify schools as Private or Public.
-		- [sjbdj](https://shamim.ice.iu@gmail.com): Using sknfe dnfjei knjksn
+		
+		-This is my solution to all the programming assignments of Machine-Learning (Coursera) taught by Andrew Ng. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
+
+		- [Linear Regression](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Linear%20Regression): In this exercise, we implemented linear regression with one variable to predict profits for a food truck, and with multiple variables to predict the prices of houses.
+		- [Logistic Regression](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Logistic%20Regression): In this exercise we implemented a logistic regression model to predict whether a student gets admitted into a university.
+		- [Multi Class Classification and Neural Networks](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Multi%20Class%20and%20NN): Inthis exercise, we use logistic regression and neural networks to recognize handwritten digits (from 0 to 9).
+		- [Neural Network Learning](https://github.com/shamim-ice/shamim_Portfolio/tree/main/NN%20Learning): In this exercise, we implemented the backpropagtion algorithm for neural networks and apply it to the task of handwritten digit recognition.
+		- [Regularized Linear Regression and Bias Variance](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Regularized%20Linear%20Regression%20and%20BiasVariance): In this exercise, we implemented regularized linear regression to predict the amount of water flowing out of the dam using the change of water level. Also we plotted training and test errors on a learning curve to diagonse bias-variance problems.
+		- [K-means Clustering and PCM](https://github.com/shamim-ice/shamim_Portfolio/tree/main/K-Means%20Clustering%20and%20PCA):
+		- [Support Vector Machine](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Support%20Vector%20Machines):
+		- [Anomaly Detection](https://github.com/shamim-ice/shamim_Portfolio/tree/main/Anomaly%20Detection): Using Decision Trees and Random Forests to classify schools as Private or Public.
 
 
 
