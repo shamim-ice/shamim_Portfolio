@@ -7,10 +7,12 @@ This repository containing portfolio of data science machine learning projects/e
 
 - ### Data Analysis and Visualisation
 
-	- [Data Visualization](https://www.udemy.com/share/10236w3@mIewIF1baN2aIwVuFafNBFat18VtFsB2m7C3DoonC8n1caP8mwem-Gfuio3jagAD5g==/): Using python  Covered, Curves Plotting, Scatter Plotting, Bar Charts, Multiple Bar Charts, Plotting Stacked Bars, Pie Chart, Histogram, Boxplots, Triangulations Plotting, Customizing Charts, and Annotations.
+		
+	-[Data Visualization](): Using python  Covered, Curves Plotting, Scatter Plotting, Bar Charts, Multiple Bar Charts, Plotting Stacked Bars, Pie Chart, Histogram, Boxplots, Triangulations Plotting, Customizing Charts, and Annotations.
 	
 	_Tools: Numpay, Pandas, Matplotlib and Seaborn_
-	- [Certificate](https://github.com/shamim-ice/shamim_Portfolio/blob/main/udemy_Data_visualization.pdf):
+		
+	-[Certificate](https://github.com/shamim-ice/shamim_Portfolio/blob/main/udemy_Data_visualization.pdf):
 			
 
 - ### Machine Learning: 
