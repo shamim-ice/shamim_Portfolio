@@ -17,6 +17,12 @@ This repository containing portfolio of data science machine learning projects/e
 
 	- __Python__
 		
+		- [Linear regression](https://github.com/shamim-ice/shamim_Portfolio/blob/main/LinearRegression.py): Using linear regression model to predict the value of pizza.
+		- [Mullti variant regression](https://github.com/shamim-ice/shamim_Portfolio/blob/main/multivariantregression.py): Using multivariant regression model to predict mobile price.
+		- [Naive Bayes classifiers](https://github.com/shamim-ice/shamim_Portfolio/blob/main/NaiveBC.py): Naive Bayes classifiers are classifie whether or not patient has diabetes based on certain diagnostic measurements included in the [dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
+		- [Animal Classification](https://github.com/shamim-ice/shamim_Portfolio/blob/main/AnimalClassifications.py): Using decision tree algorithm model to classifies the animal consists of 101 animals from zoo included in the [dataset](https://www.kaggle.com/uciml/zoo-animal-classification).
+		- [Decision Tree scratch code](https://github.com/shamim-ice/shamim_Portfolio/blob/main/DecisionTREE.py): Tree-based powerful classification and prediction nonlinear models that work by partitioning the input space into cuboid regions.
+		
 		- [Handwritten bangla digit recognition using CNN with WEB applet](https://github.com/shamim-ice/HandwrittenBanglaDigitRecognition): A project submitted to the department of Information and Communication Technology, Faculty of Engineering and Technology, Islamic University, Kushtia-7003 for the partial fulfilment of the bachelor schience degree.
 		
 		_Tools: Pandas, Numpy, cv2, Scikit-learn, keras, and Matplotlib_
