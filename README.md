@@ -27,6 +27,7 @@ This repository containing portfolio of data science machine learning projects/e
 		- [K-Nearest Neighbour](https://github.com/shamim-ice/shamim_Portfolio/blob/main/IRIS_knn.ipynb) or [KNN](https://github.com/shamim-ice/shamim_Portfolio/blob/main/KNN.py): Using KNN algorithm to classifies the iris types based on sepal width and length, and petel width and length included [dataset](https://github.com/shamim-ice/shamim_Portfolio/blob/main/IRIS.csv). 
 		
 		- [Handwritten bangla digit recognition using CNN with WEB applet](https://github.com/shamim-ice/HandwrittenBanglaDigitRecognition): A project submitted to the department of Information and Communication Technology, Faculty of Engineering and Technology, Islamic University, Kushtia-7003 for the partial fulfilment of the bachelor schience degree.
+		
 		-[Number plate detection||Computer Vision|| Open cv](https://github.com/shamim-ice/NumberPlateDetection): Applying Open cv computer vision algorithm to detects Bangladeshi car number plate.
 		
 		_Tools: Pandas, Numpy, cv2, Scikit-learn, keras, and Matplotlib_
