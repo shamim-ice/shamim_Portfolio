@@ -28,10 +28,10 @@ This repository containing portfolio of data science machine learning projects/e
 		
 		- [Handwritten bangla digit recognition using CNN with WEB applet](https://github.com/shamim-ice/HandwrittenBanglaDigitRecognition): A project submitted to the department of Information and Communication Technology, Faculty of Engineering and Technology, Islamic University, Kushtia-7003 for the partial fulfilment of the bachelor schience degree.
 		
-		-[Number plate detection||Computer Vision|| Open cv](https://github.com/shamim-ice/NumberPlateDetection): Applying Open cv computer vision algorithm to detects Bangladeshi car number plate.
-		
 		_Tools: Pandas, Numpy, cv2, Scikit-learn, keras, and Matplotlib_
 
+		-[Number plate detection||Computer Vision|| Open cv](https://github.com/shamim-ice/NumberPlateDetection): Applying Open cv computer vision algorithm to detects Bangladeshi car number plate.
+		
 		- [Malicious users detection in CR-IoT networks using SVM](https://github.com/shamim-ice/SpectrumSensing-and-MaliciousUsersClassification): Support Vector Machine (SVM) algorithm used to detects and classifies malicious users in Cognitive Radio Internet of Things (CR-IoT) networks ([paper](https://doi.org/10.1016/j.mlwa.2021.100052)).
 
 	- __MATLAB__
