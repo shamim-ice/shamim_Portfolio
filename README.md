@@ -30,7 +30,7 @@ This repository containing portfolio of data science machine learning projects/e
 		
 		_Tools: Pandas, Numpy, cv2, Scikit-learn, keras, and Matplotlib_
 
-		-[Number plate detection||Computer Vision|| Open cv](https://github.com/shamim-ice/NumberPlateDetection): Applying Open cv computer vision algorithm to detects Bangladeshi car number plate.
+		- [Number plate detection||Computer Vision|| Open cv](https://github.com/shamim-ice/NumberPlateDetection): Applying Open cv computer vision algorithm to detects Bangladeshi car number plate.
 		
 		- [Malicious users detection in CR-IoT networks using SVM](https://github.com/shamim-ice/SpectrumSensing-and-MaliciousUsersClassification): Support Vector Machine (SVM) algorithm used to detects and classifies malicious users in Cognitive Radio Internet of Things (CR-IoT) networks ([paper](https://doi.org/10.1016/j.mlwa.2021.100052)).
 
