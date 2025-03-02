@@ -50,6 +50,10 @@ This repository containing portfolio of data science machine learning projects/e
 		- [Certificate](https://github.com/shamim-ice/shamim_Portfolio/blob/main/Coursera_Machine_Learning_ng.pdf):
 
 
+- ### Big Data Engineer
+	-[E2E supermsrket sales pipelining airflow](https://github.com/shamim-ice/Supermarket_sales_e2e_pipelining_Airflow_Project)
+
+
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at shamim.ice.iu@gmail.com. 
 
